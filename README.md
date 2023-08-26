@@ -1,3 +1,3 @@
-# 🖩 Calculadora 
-## Calculadora orientada a objeto
-Minha primeira calculadora feita orientada a objeto, que servirá de base para uma calculadora científica.
+# 🖩Calculadora 
+## Calculadora orientada a objetos
+Minha primeira calculadora feita orientada a objeto, que servirá de base para uma calculadora avançada.
